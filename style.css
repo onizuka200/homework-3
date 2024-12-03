@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #d5e1ef;
+}
+
+.didi {
+  width: 320px;
+  height: 497px;
+  justify-content: center;
+  margin-top: 152px;
+  margin-left: 560px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.lurji {
+  width: 288px;
+  height: 288px;
+  margin-top: 16px;
+  margin-left: 16px;
+  border-radius: 10px;
+  background-color: #2c7dfa;
+  display: inline-block;
+}
+
+.qr {
+  width: 160px;
+  height: 160px;
+  margin-top: 64px;
+  margin-left: 64px;
+}
+
+.b-txt {
+  width: 288px;
+  height: 56px;
+  margin-left: 15px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.s-txt {
+  width: 256px;
+  height: 57px;
+  justify-content: center;
+  margin-left: 30px;
+  margin-top: 15px;
+  font-size: 15px;
+  text-align: center;
+  color: #7d889e;
+}
